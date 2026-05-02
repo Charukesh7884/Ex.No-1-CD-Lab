@@ -85,7 +85,9 @@ int main() {
 }
 ```
 # OUTPUT:
-<img width="931" height="398" alt="image" src="https://github.com/user-attachments/assets/ed111cc5-568a-458e-9aaa-481dfe238e96" />
+
+<img width="931" height="398" alt="image" src="https://github.com/user-attachments/assets/ed111cc5-568a-458e-9aaa-481dfe238e96" />/n
+<img width="911" height="483" alt="image" src="https://github.com/user-attachments/assets/22f62186-479e-488b-a122-a15efc01b163" />
 
 # RESULT:
 
